@@ -14,11 +14,6 @@ const App = ()=>{
       id : 2,
       title : "ایتم شماره دو",
       isDone : true
-    },
-    {
-      id : 3,
-      title : "ایتم شماره سه",
-      isDone : false
     }
   ])
   return (
